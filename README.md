@@ -18,7 +18,7 @@ To compile the injected library type: gcc scanFake.c --shared -fPIC -ldl -o .so.
 
 *The secret binary file is already included with the changed dynamic section params, it's named sec.
 
-After completing these steps , type ./sec and you have the program running! and each type you type the password into the console it will be sent to the server.
+After completing these steps , type ./sec and you have the program running! and each time you type the password into the console it will be sent to the server.
 
 Screenshots of changed dynamic sections , and examples of sent password to server:
 
