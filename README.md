@@ -1,4 +1,9 @@
 # LinkerAttack
+
+Name: David Ehevich
+
+Name: Ilon Barashi
+
 Inject our own scanf function in c
 
 Files included : the changed binary file which is using our injected library,server which we send the password to, , the injection code itself.
