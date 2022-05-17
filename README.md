@@ -2,7 +2,7 @@
 
 Name: David Ehevich
 
-Name: Ilon Barashi
+Name: Eilon Barashi
 
 Inject our own scanf function in c
 
